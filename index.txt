@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<script>
+    this.location = "www.layz.net" ;
+</script>
+</html>
