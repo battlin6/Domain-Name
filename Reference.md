@@ -5,3 +5,5 @@
 2.[中文域名转码](http://www.webmasterhome.cn/tool/punycode.asp)
 
 3.[Github pages 绑定个人域名](https://segmentfault.com/a/1190000011203711)
+
+4.[“Domain's DNS record could not be retrieved”解决方法](https://www.jianshu.com/p/458c354e8f09)
