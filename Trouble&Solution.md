@@ -15,5 +15,5 @@
 
 ### 2. Github Page认为中文网址不是一个合法的format
 
-    **PunyCode!!**
+  **PunyCode!!**
 > 中文域名在解析的时候，需要先转换为 xn--fiq228c.com或xn--fiq228c.cn形式的ASCII码，这种编码称为PunyCode。纯中文域名不被标准的解析服务器支持，要实现对这种纯中文域名的正确访问，ISP需要做相应的修改，以便能够正确解析中文域名。
