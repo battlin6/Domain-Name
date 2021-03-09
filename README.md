@@ -8,3 +8,12 @@ The target of this project is to convert the Domain Name "世界一流高中.com
 For the sake of network conditions, it wasted lots of time.
 
 **So sad!**
+
+
+
+
+----------------------------------
+
+
+
+### Now, it has no use.
